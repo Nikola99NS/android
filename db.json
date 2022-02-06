@@ -1,28 +1,27 @@
 {
-  
   "NonStop":[
-    {"ime":"Nikola Perić", "godine":"24","kursevi":"DIF,ISSA"},
-    {"ime":"Božidar Avramović", "godine":"29","kursevi":"DIF,NCSF"},
-    {"ime":"Uroš Trifunović", "godine":"31","kursevi":"DIF,ACE"}
+    {"ime":"Nikola Perić", "godine":"24","kursevi":"DIF,ISSA","slika":"prva"},
+    {"ime":"Božidar Avramović", "godine":"29","kursevi":"DIF,NCSF","slika":"druga"},
+    {"ime":"Uroš Trifunović", "godine":"31","kursevi":"DIF,ACE","slika":"treca"}
   ],
   "Prime":[
-    {"ime":"Strahinja Gavrilović", "godine":"27","kursevi":"DIF,NASM"},
-    {"ime":"Nemanja Todorović", "godine":"21","kursevi":"ACSM"},
-    {"ime":"Miloš Tomašević", "godine":"24","kursevi":"YMCA"}
+    {"ime":"Strahinja Gavrilović", "godine":"27","kursevi":"DIF,NASM","slika":"cetvrta"},
+    {"ime":"Nemanja Todorović", "godine":"21","kursevi":"ACSM","slika":"peta"},
+    {"ime":"Miloš Tomašević", "godine":"24","kursevi":"YMCA","slika":"sesta"}
   ],
   "Synergy":[
-    {"ime":"Bogdan Bajić", "godine":"32","kursevi":"DIF, ACSM,HFE"},
-    {"ime":"Predrag Mijić", "godine":"26","kursevi":"DIF,ISSA"},
-    {"ime":"Dragoljub Madić", "godine":"22","kursevi":"ACE"}
+    {"ime":"Bogdan Bajić", "godine":"32","kursevi":"DIF, ACSM,HFE","slika":"sedma"},
+    {"ime":"Predrag Mijić", "godine":"26","kursevi":"DIF,ISSA","slika":"osma"},
+    {"ime":"Dragoljub Madić", "godine":"22","kursevi":"ACE","slika":"deveta"}
   ],
   "Classic gym":[
-    {"ime":"Bojan Simeunović", "godine":"23","kursevi":"SIFH"},
-    {"ime":"Zoran Dragović", "godine":"36","kursevi":"ISSA"},
-    {"ime":"Miroslav Mikić", "godine":"29","kursevi":"DIF"}
+    {"ime":"Bojan Simeunović", "godine":"23","kursevi":"SIFH","slika":"deseta"},
+    {"ime":"Zoran Dragović", "godine":"36","kursevi":"ISSA","slika":"jedanaesta"},
+    {"ime":"Miroslav Mikić", "godine":"29","kursevi":"DIF","slika":"dvanaesta"}
  ],
  "X-gym":[
-    {"ime":"Dejan Mitić", "godine":"25","kursevi":"NASM"},
-    {"ime":"Gavrilo Petrić", "godine":"28","kursevi":"DIF,NSCA"},
-    {"ime":"Velibor Vejić", "godine":"21","kursevi":"ISSA"}
+    {"ime":"Dejan Mitić", "godine":"25","kursevi":"NASM","slika":"trinaesta"},
+    {"ime":"Gavrilo Petrić", "godine":"28","kursevi":"DIF,NSCA","slika":"cetrnaesta"},
+    {"ime":"Velibor Vejić", "godine":"21","kursevi":"ISSA","slika":"petnaesta"}
  ]
-}
+ }
